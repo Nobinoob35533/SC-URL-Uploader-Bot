@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Ciao😁,
-This is <b>🌩Saviour Coders' URL Uploader Bot🌩.</b>
+This is <b>🌩Darksideempire' URL Uploader Bot🌩.</b>
 
 <i>🔥Send any link and it will be uploaded as File/Video.
 🔥YouTube videos can also be uploaded using this bot.</i>
@@ -12,8 +12,8 @@ This is <b>🌩Saviour Coders' URL Uploader Bot🌩.</b>
 🌈Responsive 
 🌈Easy to use</i>
 
-<b>Support Group</b> :- 🐠@ubuntu_coders🐠
-<b>Support Channel</b> :- 🐬@UC_bot_channel🐬
+<b>Support Group</b> :- 🌟Darksideempire
+<b>Support Channel</b> :- 🐬Darksidepost🐬
 <b>My Master</b> :- ⛵️@saviour_coder⛵️"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
@@ -53,8 +53,8 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>Support Group</b> :- 🐠@ubuntu_coders🐠
-<b>Support Channel</b> :- 🐬@UC_bot_channel🐬
+<b>Support Group</b> :- 🐠Darksideempire🐠
+<b>Support Channel</b> :- 🐬Darksidepost🐬
 <b>My Master</b> :- ⛵️@saviour_coder⛵️"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
